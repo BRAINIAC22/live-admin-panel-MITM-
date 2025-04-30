@@ -11,7 +11,7 @@ This page / account is for educational purposes only! We are not responsible for
 
 Enjoy!!
 
-https://postimg.cc/Xrf2MnnF
+<img src="https://postimg.cc/Xrf2MnnF" />
 
 
 
