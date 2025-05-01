@@ -6,18 +6,19 @@ https://t.me/unsafedata_r or https://t.me/odeysea or join our telegram channel -
 we can build you pages with strong antibot and live panel. so you can control and monitor user (victim's) access.
 
 
+
+<img src="https://i.postimg.cc/3x6zvw6L/mitm.png" />
+
+# Real world example/application 
+
+
+<img src="https://i.postimg.cc/vHWT2zr4/live-P-ezgif-com-video-to-gif-converter.gif"/>
+
+
 # Disclaimer
 This page / account is for educational purposes only! We are not responsible for any misuse or misconduct of any software or source code.
 
 Enjoy!!
-
-
-<img src="https://i.postimg.cc/3x6zvw6L/mitm.png" />
-
-# Disclaimer
-Real world example/application 
-
-<img src="https://i.postimg.cc/vHWT2zr4/live-P-ezgif-com-video-to-gif-converter.gif"/>
 
 
 
